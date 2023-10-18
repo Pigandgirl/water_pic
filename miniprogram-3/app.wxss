@@ -1,0 +1,4 @@
+/**app.wxss**/
+.flex-row{
+  display: flex;
+}
